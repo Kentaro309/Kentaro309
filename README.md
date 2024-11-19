@@ -12,13 +12,13 @@ Currently, I'm honing my skills in <b>C++</b> and <b>game physics</b> while expe
 <ul>
   <li><b>Unreal Engine Projects:</b></li>
   <ul>
-    <li><a href="https://github.com/kentaromatsuo/unreal-project-1">Project Name 1</a>: Brief description of the project.</li>
-    <li><a href="https://github.com/kentaromatsuo/unreal-project-2">Project Name 2</a>: Brief description of the project.</li>
+    <li><a href="https://github.com/kentaromatsuo/unreal-project-1">Project</a>: Description</li>
+    <li><a href="https://github.com/kentaromatsuo/unreal-project-2">Project</a>: Description</li>
   </ul>
   <li><b>Unity Projects:</b></li>
   <ul>
-    <li><a href="https://github.com/kentaromatsuo/unity-project-1">Project Name 1</a>: Brief description of the project.</li>
-    <li><a href="https://github.com/kentaromatsuo/unity-project-2">Project Name 2</a>: Brief description of the project.</li>
+    <li><a href="https://github.com/kentaromatsuo/unity-project-1">Project</a>: Description</li>
+    <li><a href="https://github.com/kentaromatsuo/unity-project-2">Project</a>: Description</li>
   </ul>
 </ul>
 
