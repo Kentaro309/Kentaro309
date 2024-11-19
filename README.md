@@ -17,5 +17,5 @@
 
 <h2> Contacts:</h2>
 
-- kentaromats@gmail.com
-[linkedin]: https://linkedin.com/in/joshmadakor
+- Email: kentaromats@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kentaro-matsuo-5b9345223/
