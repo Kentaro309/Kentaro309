@@ -27,7 +27,7 @@ Hi! I'm Kentaro Matsuo, a computer science major who is passionate about game de
   <li><b>Other Tools:</b> Blender, Visual Studio</li>
 </ul>
 
-<h2>Contacts</h2>
+<h2>Contact Me:</h2>
 <ul>
   <li><b>Email:</b> <a href="mailto:kentaromats@gmail.com">kentaromats@gmail.com</a></li>
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/kentaro-matsuo-5b9345223/" target="_blank">linkedin.com/in/kentaro-matsuo</a></li>
