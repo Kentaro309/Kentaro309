@@ -24,7 +24,7 @@ Hi! I'm Kentaro Matsuo, a computer science major who is passionate about game de
   <li><b>Programming Languages:</b> C++, C#, Java, Python</li>
   <li><b>Game Engines:</b> Unreal Engine, Unity</li>
   <li><b>Version Control:</b> Git, GitHub, Plastic SCM</li>
-  <li><b>Other Tools:</b> Blender, Visual Studio</li>
+  <li><b>Additional Tools:</b> Blender, Visual Studio</li>
 </ul>
 
 <h2>Contact Me:</h2>
