@@ -32,5 +32,5 @@ Hi! I'm Kentaro Matsuo, a computer science major who is passionate about game de
 <ul>
   <li><b>Email:</b> <a href="mailto:kentaromats@gmail.com">kentaromats@gmail.com</a></li>
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/kentaro-matsuo-5b9345223/" target="_blank">linkedin.com/in/kentaro-matsuo</a></li>
-  <li><b>GitHub:</b> <a href="https://github.com/kentaromatsuo" target="_blank">github.com/kentaromatsuo</a></li>
+  <li><b>GitHub:</b> <a href="https://github.com/Kentaro309" target="_blank">[github.com/Kentaro309)</a></li>
 </ul>
