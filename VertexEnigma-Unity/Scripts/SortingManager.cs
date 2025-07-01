@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class SortingManager : MonoBehaviour
 {
-    // Make the list public or use [SerializeField] to keep it private but visible in the editor
+    // Make list public or use [SerializeField] to keep private but visible in the editor
     public List<SortingSlot> slots = new List<SortingSlot>();
 
     void Awake()
@@ -22,7 +22,7 @@ public class SortingManager : MonoBehaviour
     {
         foreach (var s in slots)
         {
-            if (!s.isCorrectObjectFullyInside) return; // Assuming you've implemented IsCorrectObjectFullyInside as a property
+            if (!s.isCorrectObjectFullyInside) return; // Assuming implemented IsCorrectObjectFullyInside as a property
         }
         
         Debug.Log("SORTING COMPLETED \n\n\n\n");
