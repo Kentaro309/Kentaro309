@@ -1,10 +1,4 @@
 /*
-	Christopher Isidro
-	2370110
-	cisidro@chapman.edu
-	CPSC-340-01
-	Roommate Rescue
-
 	Function: In charge of cloning and deleting object received by raytrace to position in the middle of character's FOV
 */
 
