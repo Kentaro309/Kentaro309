@@ -1,10 +1,4 @@
 /*
-	Christopher Isidro
-	2370110
-	cisidro@chapman.edu
-	CPSC-340-01
-	Roommate Rescue
-
 	Function: script to hold functions to load different levels when called on
 */
 
