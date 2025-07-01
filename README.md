@@ -7,17 +7,18 @@ Hi! I'm Kentaro Matsuo, a computer science major who is passionate about game de
 
 <h2>Projects</h2>
 <ul>
-  <li><b>Unreal Engine Projects:</b></li>
-  <ul>
-    <li><a href="https://github.com/kentaromatsuo/unreal-project-1">Project</a>: Description</li>
-    <li><a href="https://github.com/kentaromatsuo/unreal-project-2">Project</a>: Description</li>
-  </ul>
   <li><b>Unity Projects:</b></li>
   <ul>
     <li><a href="https://github.com/kentaromatsuo/unity-project-1">Project</a>: Description</li>
     <li><a href="https://github.com/kentaromatsuo/unity-project-2">Project</a>: Description</li>
   </ul>
-</ul>
+  </ul>
+  <li><b>Unreal Engine Projects:</b></li>
+  <ul>
+    <li><a href="https://github.com/kentaromatsuo/unreal-project-1">Project</a>: Description</li>
+    <li><a href="https://github.com/kentaromatsuo/unreal-project-2">Project</a>: Description</li>
+  </ul>
+
 
 <h2>Skills</h2>
 <ul>
