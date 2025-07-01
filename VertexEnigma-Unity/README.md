@@ -48,9 +48,8 @@ As the sole programmer on the team, I was responsible for the complete technical
 ---
 
 ## Repository Structure
-/Scripts – Core Unity C# scripts
-/Scenes (optional) – Key Unity scenes if included
-/Docs – README, images, credits
+/Scripts – All core Unity C# scripts implementing gameplay systems  
+README.md – Project overview, design decisions, and documentation
 
 
 ---
