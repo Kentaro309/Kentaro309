@@ -1,10 +1,4 @@
 /*
-	Christopher Isidro
-	2370110
-	cisidro@chapman.edu
-	CPSC-340-01
-	Roommate Rescue
-
 	Function: Handles logic for checking if an object can be picked up through booleans of being able to be picked up.  This Script used to handle the appearance of ceratin objects
 	but was changed later to raytrace cloning
 */
