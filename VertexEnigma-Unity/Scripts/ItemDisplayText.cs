@@ -1,10 +1,4 @@
 /*
-	Christopher Isidro
-	2370110
-	cisidro@chapman.edu
-	CPSC-340-01
-	Roommate Rescue
-
 	Function: Item Display is in charge of changing the text of the item that you are looking at in player UI 
 */
 
