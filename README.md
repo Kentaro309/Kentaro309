@@ -7,16 +7,8 @@ Hi! I'm Kentaro Matsuo, a computer science major who is passionate about game de
 
 <h2>Projects</h2>
 <ul>
-  <li><b>Unity Projects:</b></li>
-  <ul>
     <li><a href="https://github.com/Kentaro309/Kentaro309/tree/32a6a4b1f12b8561330cf50adcbb726478497d0e/VertexEnigma-Unity">Vertex Enigma</a> - IEEE Game SIG 2024 Project</li>
     <li><a href="https://github.com/kentaromatsuo/unity-project-2">Project</a>: Description</li>
-  </ul>
-  <li><b>Unreal Engine Projects:</b></li>
-  <ul>
-    <li><a href="https://github.com/kentaromatsuo/unreal-project-1">Project</a>: Description</li>
-    <li><a href="https://github.com/kentaromatsuo/unreal-project-2">Project</a>: Description</li>
-  </ul>
   </ul>
 
 
