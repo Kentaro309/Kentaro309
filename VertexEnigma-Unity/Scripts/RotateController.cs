@@ -1,9 +1,4 @@
 /*
-	Christopher Isidro
-	2370110
-	cisidro@chapman.edu
-	CPSC-340-01
-	Roommate Rescue
 	SOURCE: https://discussions.unity.com/t/drag-to-rotate-game-object-with-mouse/185366
 	Function: Enables lateral rotation of objects using LMB.  In order to rotate an object, it needs a tag of PickUpable
 */
