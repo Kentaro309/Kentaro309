@@ -1,32 +1,81 @@
-# Vertex Enigma – IEEE Game SIG 2024 Project
+# Vertex Enigma – IEEE Game SIG 2024 Submission
 
-A multiplayer Unity escape room game (3rd Place, IEEE Game SIG 2024).
-I was the sole programmer on our 3-person team.
+Vertex Enigma is a multiplayer escape room game developed in Unity and submitted to the IEEE Game SIG 2024 competition, where it placed 3rd. This repository showcases the programming work and systems design I contributed as the sole programmer on our three-person team.
 
 ---
 
 ## Overview
 
-This project is a multiplayer escape game with:
-- Modular player-object interaction (pick-up, inspect, sort)
-- Dynamic room state system that unlocks story as players progress
-- Collision handling with layer-based filtering
-- Integration with existing player controller
-- Polished gameplay delivered under a tight deadline
+Vertex Enigma is designed as an immersive escape game that challenges players to solve puzzles across multiple rooms, progressively unlocking story elements as they advance. My primary responsibility was building all gameplay systems, integrating them with existing code, and delivering a polished, stable build for competition submission.
 
 ---
 
-## My Role and Contributions
+## Promotional Trailer
 
-As sole programmer, I was responsible for:
-- Designing modular, event-driven interaction systems in C#
-- Implementing dynamic room progression with static variables
-- Fixing inherited teammate code to support new features
-- Resolving collision bugs via layer-based filtering
-- Managing Git version control workflows
-- Rapidly self-teaching Unity subsystems
+[Link to the competition promotional trailer here]
+
+---
+
+## Role and Contributions
+
+As the sole programmer on the team, I was responsible for the complete technical implementation of gameplay systems in Unity using C#. My key contributions included:
+
+- **Modular Interaction System**  
+  - Designed and implemented a modular, event-driven system for player-object interactions (pick-up, inspect, sort) using C# in Unity.
+  - Ensured scalable and maintainable design to support future feature additions.
+
+- **Dynamic Room-State Tracking**  
+  - Built a system to track player progress using static variables.
+  - Dynamically updated the main room on load to reveal new story elements as players advanced.
+
+- **Integration with Inherited Code**  
+  - Analyzed existing player controller and teammate-written scripts.
+  - Integrated my new systems carefully to avoid breaking existing functionality.
+  - Refactored and reorganized code to maintain compatibility and stability.
+
+- **Bug Fixing and Collision Handling**  
+  - Diagnosed and resolved inherited collision bugs by implementing layer-based filtering.
+  - Ensured smooth and reliable interaction behaviors without physics conflicts.
+
+- **Version Control and Collaboration**  
+  - Managed Git-based workflows to maintain clean version history.
+  - Coordinated development with non-technical team members to ensure seamless integration of art and design assets.
+
+- **Independent Learning and Delivery**  
+  - Rapidly self-taught multiple Unity subsystems (event systems, physics interactions, static data management) to meet a tight competition deadline.
+  - Delivered a polished final build for judging.
 
 ---
 
 ## Repository Structure
+/Scripts – Core Unity C# scripts
+/Scenes (optional) – Key Unity scenes if included
+/Docs – README, images, credits
 
+
+---
+
+## Screenshots
+
+Provide illustrative screenshots here to showcase the project:
+
+![Main Room](docs/images/main_room.png)
+![Player Interaction](docs/images/interaction.png)
+![Example Puzzle](docs/images/puzzle.png)
+
+---
+
+## Credits and External Code
+
+This project includes some scripts and components that were either originally written by teammates or adapted from online tutorials. These were essential to maintain the functionality and integration of the project:
+
+- **PlayerController.cs**: Initially sourced from an online tutorial (original source unknown), with my modifications to support custom interactions and collision filtering.
+- **[OtherScript].cs**: Written by a teammate; retained and adapted to ensure compatibility with new features I implemented.
+
+I've included these scripts in this repository (with comments on modifications) to preserve full integration context. My focus throughout development was on understanding, adapting, refactoring, and extending this existing code to deliver a stable, competition-ready final build.
+
+---
+
+## Notes
+
+This repository is not a full Unity project export. It is a curated version that emphasizes my programming contributions, with a focus on clear structure, maintainable code, and documentation suitable for recruiters and collaborators.
