@@ -17,6 +17,7 @@ Hi! I'm Kentaro Matsuo, a computer science major who is passionate about game de
     <li><a href="https://github.com/kentaromatsuo/unreal-project-1">Project</a>: Description</li>
     <li><a href="https://github.com/kentaromatsuo/unreal-project-2">Project</a>: Description</li>
   </ul>
+  </ul>
 
 
 <h2>Skills</h2>
