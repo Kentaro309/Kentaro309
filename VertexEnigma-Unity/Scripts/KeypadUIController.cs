@@ -1,3 +1,7 @@
+/*
+    Function: Controls the logic for the keypad
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
