@@ -1,10 +1,4 @@
 /*
-	Christopher Isidro
-	2370110
-	cisidro@chapman.edu
-	CPSC-340-01
-	Roommate Rescue
-
 	Function: NO LONGER IN USE - Script was used as a workaround to the object raytrace cloning.  Box colliders were used with invisible objects held in 
 	player UI and was revealed if the interact button was pressed and if the player was inside the collider.  Keeping this as a test for future works.
 */
