@@ -1,11 +1,5 @@
 /*
-	Christopher Isidro
-	2370110
-	cisidro@chapman.edu
-	CPSC-340-01
-	Roommate Rescue
-
-	Function: Introduced initially as a debugger to double check if buttons were working 
+	Function: Introduced initially as a debugger to double-check if buttons were working 
 */
 
 using System.Collections;
