@@ -1,8 +1,12 @@
+/*
+    Function: Static class for storing/loading all of the game data
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public static class GameData //Can be called from any script. Do not need to put it on an object.
+public static class GameData //Can be called from any script. Do not need to put this on an object (These comments are written for my teammates for when they need to use the script within the game engine).
 {
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
     static void OnGameStart() //This code runs once when the game starts, before any scene is loaded
@@ -49,7 +53,7 @@ public static class GameData //Can be called from any script. Do not need to put
         level5 = PlayerPrefs.GetInt("Level 5 Unlocked");
     }
 
-    public static void DeleteData()
+    public static void DeleteData() //Resets the game to the initial state by deleting all of the player data.
     {
         levelsCompleted = 0;
         playerNumber = 0;
