@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 <p>
-Hi! I'm Kentaro Matsuo, a computer science major who is passionate about game development. I specialize in using Unreal Engine and Unity to create unique gameplay experiences. Currently, I'm experimenting with procedural generation in different ways to design unique environments, game levels, and mechanics. I'm also exploring various types of AI-driven systems to enhance player interaction and immersion. My goal is to bring together technically innovative ideas with creative design to deliver more engaging gameplay experiences.
+Hi! I'm Kentaro Matsuo, a computer science graduate with experience in Unity, focusing on modular design, integration, and creative problem-solving. Open to software development roles.
 </p>
 
 <h2>Projects</h2>
