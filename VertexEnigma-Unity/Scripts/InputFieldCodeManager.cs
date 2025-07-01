@@ -1,10 +1,4 @@
 /*
-	Christopher Isidro
-	2370110
-	cisidro@chapman.edu
-	CPSC-340-01
-	Roommate Rescue
-
 	Function: This script handles the input fields, comparing a string to different room codes.  It then calls level manager to start a scene.
 */
 using System.Collections;
