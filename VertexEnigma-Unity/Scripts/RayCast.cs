@@ -1,10 +1,4 @@
 /*
-	Christopher Isidro
-	2370110
-	cisidro@chapman.edu
-	CPSC-340-01
-	Roommate Rescue
-
 	Function: Handles raycasting from the player.  Receives object that the raycast intersects with and sends it to the item display text script.
 */
 
