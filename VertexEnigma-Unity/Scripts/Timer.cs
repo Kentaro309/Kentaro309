@@ -1,11 +1,5 @@
 /*
-	Christopher Isidro
-	2370110
-	cisidro@chapman.edu
-	CPSC-340-01
-	Roommate Rescue
-
-	Function: In charge of timer logic.  Time is set at ten minutes initially and counts to zero.  No lose screen is implemented yet.
+	Function: In charge of timer logic.
 */
 
 using System.Collections;
