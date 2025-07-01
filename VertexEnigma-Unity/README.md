@@ -5,9 +5,9 @@ I was the sole programmer on our 3-person team.
 
 ---
 
-## 🧩 Overview
+## Overview
 
-This project is a fully functional multiplayer escape game with:
+This project is a multiplayer escape game with:
 - Modular player-object interaction (pick-up, inspect, sort)
 - Dynamic room state system that unlocks story as players progress
 - Collision handling with layer-based filtering
@@ -16,7 +16,7 @@ This project is a fully functional multiplayer escape game with:
 
 ---
 
-## 💻 My Role and Contributions
+## My Role and Contributions
 
 As sole programmer, I was responsible for:
 - Designing modular, event-driven interaction systems in C#
@@ -28,5 +28,5 @@ As sole programmer, I was responsible for:
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
