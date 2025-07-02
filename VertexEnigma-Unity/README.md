@@ -62,7 +62,8 @@ Provide illustrative screenshots here to showcase the project:
 
 ![Main Room](docs/images/main_room.png)
 ![Player Interaction](docs/images/interaction.png)
-![Example Puzzle](docs/images/puzzle.png)
+![Example Puzzle](docs/images/puzzle.png)![VertexEnigmaMainMenu](https://github.com/user-attachments/assets/e9ed3a10-7293-457a-9eae-053c4d5fa946)
+
 
 ---
 
