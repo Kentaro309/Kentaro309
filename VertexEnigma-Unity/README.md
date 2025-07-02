@@ -6,7 +6,7 @@ Vertex Enigma is a multiplayer escape room game developed in Unity over 4 months
 
 ## Overview
 
-Vertex Enigma is designed as a multiplayer escape game that challenges players to solve puzzles across multiple rooms, progressively unlocking story elements as they advance. My primary responsibility was building all gameplay systems, integrating them with existing code, and delivering a polished, stable build for competition submission.
+Vertex Enigma is a multiplayer escape room game where players collaborate to solve puzzles and escape a series of unique, themed rooms. The goal in each level is to interact with objects around the environment to find clues and discover a four-symbol keycode required to unlock the exit. Players communicate verbally (without seeing each other's screens) to share findings and coordinate solutions. Each new level introduces a unique mechanic, adding a new challenge and requiring creative teamwork. As players progress, the central hub room reveals new story elements that further the narrative.
 
 ---
 
