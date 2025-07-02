@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 <p>
-Hi! I'm Kentaro Matsuo, a computer science graduate with experience in Unity, focusing on modular design, integration, and creative problem-solving. Open to software development roles.
+Hi! I'm Kentaro Matsuo, a computer science graduate with experience in C#, Python, C++, and Java. Open to software engineering/development roles.
 </p>
 
 <h2>Projects</h2>
