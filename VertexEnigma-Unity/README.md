@@ -6,7 +6,7 @@ Vertex Enigma is a multiplayer escape room game developed in Unity over 4 months
 
 ## Overview
 
-Vertex Enigma is designed as an immersive escape game that challenges players to solve puzzles across multiple rooms, progressively unlocking story elements as they advance. My primary responsibility was building all gameplay systems, integrating them with existing code, and delivering a polished, stable build for competition submission.
+Vertex Enigma is designed as a multiplayer escape game that challenges players to solve puzzles across multiple rooms, progressively unlocking story elements as they advance. My primary responsibility was building all gameplay systems, integrating them with existing code, and delivering a polished, stable build for competition submission.
 
 ---
 
@@ -39,13 +39,12 @@ As the sole programmer on the team, I was responsible for the complete technical
   - Diagnosed and resolved inherited collision bugs by implementing layer-based filtering.
   - Ensured smooth and reliable interaction behaviors without physics conflicts.
 
+- **Cinematics and Rendering**  
+  - Designed custom camera paths and handled in-engine rendering for trailer-ready cinematic sequences showcased in the competition submission.
+
 - **Version Control and Collaboration**  
   - Managed Git-based workflows to maintain clean version history.
   - Coordinated development with non-technical team members to ensure seamless integration of art and design assets.
-
-- **Independent Learning and Delivery**  
-  - Rapidly self-taught multiple Unity subsystems (event systems, physics interactions, static data management) to meet a tight competition deadline.
-  - Delivered a polished final build for judging.
 
 ---
 
@@ -64,7 +63,7 @@ README.md – Project overview, design decisions, and documentation
 
 
 ---
-
+<!--
 ## Credits and External Code
 
 This project includes some scripts and components that were either originally written by teammates or adapted from online tutorials. These were essential to maintain the functionality and integration of the project:
@@ -72,9 +71,8 @@ This project includes some scripts and components that were either originally wr
 - **PlayerController.cs**: Initially sourced from an online tutorial (original source unknown), with my modifications to support custom interactions and collision filtering.
 - **[OtherScript].cs**: Written by a teammate; retained and adapted to ensure compatibility with new features I implemented.
 
-I've included these scripts in this repository (with comments on modifications) to preserve full integration context. My focus throughout development was on understanding, adapting, refactoring, and extending this existing code to deliver a stable, competition-ready final build.
 
----
+--- -->
 
 ## Notes
 
