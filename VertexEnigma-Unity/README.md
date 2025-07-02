@@ -36,14 +36,14 @@ As the sole programmer on the team, I was responsible for the complete technical
   - Refactored and reorganized code to maintain compatibility and stability.
 
 - **Bug Fixing and Collision Handling**  
-  - Diagnosed and resolved inherited collision bugs by implementing layer-based filtering.
+  - Identified and resolved inherited collision bugs by implementing layer-based filtering.
   - Ensured smooth and reliable interaction behaviors without physics conflicts.
 
 - **Cinematics and Rendering**  
   - Designed custom camera paths and handled in-engine rendering for trailer-ready cinematic sequences showcased in the competition submission.
 
 - **Version Control and Collaboration**  
-  - Managed Git-based workflows to maintain clean version history.
+  - Managed Git-based workflows to maintain version history.
   - Coordinated development with non-technical team members to ensure seamless integration of art and design assets.
 
 ---
