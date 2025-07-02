@@ -14,7 +14,7 @@ Vertex Enigma is designed as an immersive escape game that challenges players to
 
 This video was produced for our IEEE Game SIG 2024 submission to showcase the game's direction, design goals, and implemented features. It was used in competition to present our team's progress under a tight development timeline.
 
-[Link to the competition promotional trailer here]
+Link: (https://youtu.be/3-exacWd3Xw?si=2PUoE_UtyiZpm59l)
 
 ---
 
