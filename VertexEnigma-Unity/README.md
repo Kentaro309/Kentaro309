@@ -1,6 +1,6 @@
 # Vertex Enigma – IEEE Game SIG 2024 Submission
 
-Vertex Enigma is a multiplayer escape room game developed in Unity and submitted to the IEEE Game SIG 2024 competition, where it placed 3rd. This repository showcases the programming work and systems design I contributed as the sole programmer on our three-person team.
+Vertex Enigma is a multiplayer escape room game developed in Unity over 4 months and submitted to the IEEE Game SIG 2024 competition, where it placed 3rd. This repository showcases the programming work and systems design I contributed as the sole programmer on our three-person team.
 
 ---
 
