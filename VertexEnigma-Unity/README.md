@@ -79,4 +79,4 @@ I've included these scripts in this repository (with comments on modifications) 
 
 ## Notes
 
-This repository is not a full Unity project export. It is a curated version that emphasizes my programming contributions, with a focus on clear structure, maintainable code, and documentation suitable for recruiters and collaborators.
+This repository is not a full Unity project export. It is a curated version that emphasizes my programming contributions.
