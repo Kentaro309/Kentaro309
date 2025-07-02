@@ -59,8 +59,7 @@ README.md – Project overview, design decisions, and documentation
 ## Screenshots
 
 <img src="https://github.com/user-attachments/assets/e9ed3a10-7293-457a-9eae-053c4d5fa946" alt="Vertex Enigma Main Menu" width="500"/> <img src="https://github.com/user-attachments/assets/a7591c41-51cd-4f26-96fc-97711163c797" alt="Vertex Enigma Level 1" width="500"/>
-<img src="https://github.com/user-attachments/assets/fcd97246-02b1-45b0-bbdf-74db7ff903e0" alt="IEEE" width="500"/> <img src="https://github.com/user-attachments/assets/f6e340b1-3a5e-4bf8-8a35-536f4e2c9e5f" alt="IEEE" width="500"/>
-
+<img src="https://github.com/user-attachments/assets/c9ee46ca-7157-46bb-96f3-2094a8517633" alt="IEEE" width="500"/> <img src="https://github.com/user-attachments/assets/f6e340b1-3a5e-4bf8-8a35-536f4e2c9e5f" alt="IEEE" width="500"/>
 
 
 
