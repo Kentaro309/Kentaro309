@@ -59,7 +59,7 @@ README.md – Project overview, design decisions, and documentation
 ## Screenshots
 
 Provide illustrative screenshots here to showcase the project:
-(docs/images/puzzle.png)![VertexEnigmaMainMenu](https://github.com/user-attachments/assets/e9ed3a10-7293-457a-9eae-053c4d5fa946)![VertexEnigmaLevel1](https://github.com/user-attachments/assets/a7591c41-51cd-4f26-96fc-97711163c797)
+![VertexEnigmaMainMenu](https://github.com/user-attachments/assets/e9ed3a10-7293-457a-9eae-053c4d5fa946)![VertexEnigmaLevel1](https://github.com/user-attachments/assets/a7591c41-51cd-4f26-96fc-97711163c797)
 
 
 
