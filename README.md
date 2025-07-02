@@ -7,7 +7,7 @@ Hi! I'm Kentaro Matsuo, a computer science graduate with experience in Unity, fo
 
 <h2>Projects</h2>
 <ul>
-    <li><a href="https://github.com/Kentaro309/Kentaro309/tree/1079dba79bf2a122bb1ce7e1dc76619bb9f361ff/VertexEnigma-Unity">Vertex Enigma</a> - IEEE Game SIG 2024 Project</li>
+    <li><a href="VertexEnigma-Unity">Vertex Enigma</a> - IEEE Game SIG 2024 Project</li>
   </ul>
 
 
