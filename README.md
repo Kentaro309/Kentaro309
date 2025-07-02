@@ -7,17 +7,16 @@ Hi! I'm Kentaro Matsuo, a computer science graduate with experience in Unity, fo
 
 <h2>Projects</h2>
 <ul>
-    <li><a href="https://github.com/Kentaro309/Kentaro309/tree/32a6a4b1f12b8561330cf50adcbb726478497d0e/VertexEnigma-Unity">Vertex Enigma</a> - IEEE Game SIG 2024 Project</li>
-    <li><a href="https://github.com/kentaromatsuo/unity-project-2">Project</a>: Description</li>
+    <li><a href="https://github.com/Kentaro309/Kentaro309/tree/1079dba79bf2a122bb1ce7e1dc76619bb9f361ff/VertexEnigma-Unity">Vertex Enigma</a> - IEEE Game SIG 2024 Project</li>
   </ul>
 
 
 <h2>Skills</h2>
 <ul>
-  <li><b>Programming Languages:</b> C++, C#, Java, Python</li>
+  <li><b>Programming Languages:</b> C#, Python, C++, Java</li>
   <li><b>Game Engines:</b> Unreal Engine, Unity</li>
   <li><b>Version Control:</b> Git, GitHub, Plastic SCM</li>
-  <li><b>Additional Tools:</b> Blender, Visual Studio</li>
+  <li><b>Additional Tools:</b> Trello, Blender, VS Code, Docker</li>
 </ul>
 
 <h2>Contact Me:</h2>
