@@ -20,11 +20,12 @@ This video was produced for our IEEE Game SIG 2024 submission to showcase the ga
 
 ## Role and Contributions
 
-As the sole programmer on the team, I was responsible for the complete technical implementation of gameplay systems in Unity using C#. My key contributions included:
+Responsible for all implementation in Unity, including scene setup, UI layout, button wiring, and gameplay programming in C#. These are some of the gameplay systems I've built:
 
 - **Modular Interaction System**  
-  - Designed and implemented a modular, event-driven system for player-object interactions (pick-up, inspect, sort) using C# in Unity.
-  - Ensured scalable and maintainable design to support future feature additions.
+  - Built an event-driven interaction framework for actions like pick-up, inspect, and sort.
+  - Used C# interfaces and delegates to decouple player inputs from object behaviors.
+  - Designed for easy extension, so new interaction types can be added with minimal changes.
 
 - **Dynamic Room-State Tracking**  
   - Built a system to track player progress using static variables.
