@@ -1,5 +1,5 @@
 /*
- * File: FirstPersonController.cs
+ * File: GameData.cs
  * Author: Kentaro Matsuo
  * Created: 2024
  * Description: Static class for storing/loading all of the game data
