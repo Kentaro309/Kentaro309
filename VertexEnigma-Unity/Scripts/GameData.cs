@@ -1,6 +1,6 @@
 /*
  * File: FirstPersonController.cs
- * Authors: Kentaro Matsuo
+ * Author: Kentaro Matsuo
  * Created: 2024
  * Description: Static class for storing/loading all of the game data
  * Unity Version: 2022.3 LTS
