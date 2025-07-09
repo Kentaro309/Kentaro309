@@ -1,3 +1,11 @@
+/*
+ * File: GameOver.cs
+ * Author: Kentaro Matsuo
+ * Created: 2024
+ * Description: 
+ * Unity Version: 2022.3 LTS
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
