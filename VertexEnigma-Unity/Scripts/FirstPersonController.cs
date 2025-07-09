@@ -1,4 +1,14 @@
-﻿// CHANGE LOG
+/*
+ * File: FirstPersonController.cs
+ * Authors: Kentaro Matsuo, Chris Isidro
+ * Created: 2024-2
+ * Description: 
+ * Note: Adapted from open-source code (exact license/source unknown). Modified for this project.
+ * Unity Version: 2022.3 LTS
+ */
+﻿
+
+// CHANGE LOG
 // 
 // CHANGES || version VERSION
 //
