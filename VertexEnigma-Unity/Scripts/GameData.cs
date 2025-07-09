@@ -1,6 +1,11 @@
 /*
-    Function: Static class for storing/loading all of the game data
-*/
+ * File: FirstPersonController.cs
+ * Authors: Kentaro Matsuo
+ * Created: 2024
+ * Description: Static class for storing/loading all of the game data
+ * Unity Version: 2022.3 LTS
+ */
+
 
 using System.Collections;
 using System.Collections.Generic;
