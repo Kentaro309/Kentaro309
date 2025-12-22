@@ -13,7 +13,7 @@ Hi! I'm Kentaro Matsuo, a computer science graduate with experience in C#, Pytho
 
 <h2>Skills</h2>
 <ul>
-  <li><b>Programming Languages:</b> C#, Python, C++, Java</li>
+  <li><b>Programming Languages:</b> C#, Python, C++, Swift, Java</li>
   <li><b>Game Engines:</b> Unreal Engine, Unity</li>
   <li><b>Version Control:</b> Git, GitHub, Plastic SCM</li>
   <li><b>Additional Tools:</b> Trello, Blender, VS Code, Docker</li>
