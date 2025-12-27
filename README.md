@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 <p>
-Hi! I'm Kentaro, a computer science(BS) and Game Development(minor) graduate with experience in C#, Python, C++, Swift, and Java. Open to software engineering/development roles.
+Hi! I'm Kentaro, a computer science(BS) and game development(minor) graduate with experience in C#, Python, C++, Swift, and Java. Open to software engineering and game dev roles.
 </p>
 
 <h2>Projects</h2>
