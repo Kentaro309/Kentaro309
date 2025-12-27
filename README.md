@@ -8,7 +8,7 @@ Hi! I'm Kentaro Matsuo, a computer science graduate with experience in C#, Pytho
 <h2>Projects</h2>
 <ul>
     <li><a href="VertexEnigma-Unity">Vertex Enigma</a> - Unity (C#) IEEE Game SIG 2024 Project</li>
-    <li><a href="">Level Rush</a> - Unreal Engine (C++) Project</li>
+    <li><a href="">Level Rush</a> - Unreal Engine (C++) Solo Game Project</li>
   </ul>
 
 
