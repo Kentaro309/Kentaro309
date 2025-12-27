@@ -7,7 +7,7 @@ Hi! I'm Kentaro Matsuo, a computer science graduate with experience in C#, Pytho
 
 <h2>Projects</h2>
 <ul>
-    <li><a href="VertexEnigma-Unity">Vertex Enigma</a> - IEEE Game SIG 2024 (unity, c#) Project</li>
+    <li><a href="VertexEnigma-Unity">Vertex Enigma</a> - IEEE Game SIG 2024 Submission(unity, c#)</li>
     <li><a href="">Level Rush</a> - Unreal Engine Solo Game Project (blueprint, c++)</li>
     <li><a href="">Game Mind</a> - Discord Chatbot Integration (python)</li>
     <li><a href="">Furigana</a> - Real-Time Kanji to Furigana Conversion- IOS Application (swift)</li>
