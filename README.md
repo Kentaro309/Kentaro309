@@ -10,7 +10,7 @@ Hi! I'm Kentaro, a computer science(BS) and game development(minor) graduate wit
     <li><a href="VertexEnigma-Unity">Vertex Enigma</a> - IEEE Game SIG 2024 Submission(unity, c#)</li>
     <li><a href="https://github.com/Kentaro309/LevelRush.git">Level Rush</a> - Unreal Engine Solo Game Project (blueprint, c++)</li>
     <li><a href="">Game Mind</a> - Discord Chatbot Integration (python)</li>
-    <li><a href="">Furigana Lens</a> - Real-Time Kanji to Furigana Converter Using Camera OCR- IOS Application (swift) [ongoing]</li>
+    <li><a href="">Furigana Lens</a> - Real-Time Kanji to Furigana Converter Using Camera OCR- IOS Application (swift) [Shipped]</li>
   </ul>
 
 
