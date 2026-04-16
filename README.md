@@ -18,7 +18,7 @@ Hi! I'm Kentaro, a computer science(BS) and game development(minor) graduate wit
 <ul>
   <li><b>Programming Languages:</b> C#, Python, C++, Swift, Java</li>
   <li><b>Game Engines:</b> Unreal Engine, Unity</li>
-  <li><b>Version Control:</b> Git, GitHub, Plastic SCM</li>
+  <li><b>Version Control:</b> Git, Plastic SCM</li>
   <li><b>AI Tools:</b> Codex, Claude Code, Cursor, Agentic Workflows</li>    
   <li><b>Additional Tools:</b> Trello, Blender, VS Code, Docker</li>
 </ul>
