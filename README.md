@@ -1,4 +1,4 @@
-<h1>Kentaro Matsuo <br/><span>Programmer | Game Developer</span></h1>
+<h1>Kentaro Matsuo <br/><span>Programmer | Software Developer</span></h1>
 
 <h2>About Me</h2>
 <p>
